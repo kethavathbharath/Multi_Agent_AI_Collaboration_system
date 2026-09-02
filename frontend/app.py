@@ -5,7 +5,8 @@ from typing import Any
 
 import streamlit as st
 
-from config.settings import settings
+
+from settings import settings
 
 
 st.set_page_config(
