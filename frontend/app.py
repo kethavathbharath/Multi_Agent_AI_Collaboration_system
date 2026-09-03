@@ -20,7 +20,7 @@ st.set_page_config(
 # BACKEND
 # ============================================================
 
-BACKEND_URL = https://multi-agent-ai-collaboration-system-3.onrender.com
+BACKEND_URL = "https://multi-agent-ai-collaboration-system-3.onrender.com"
 
 
 # ============================================================
