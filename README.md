@@ -41,19 +41,6 @@ The system follows a multi-agent Directed Acyclic Graph (DAG) architecture built
 
 ## 🚀 Quick Start Guide
 
-### 1. Prerequisites & Virtual Environment Setup
-Ensure Python 3.10+ is installed.
-
-```bash
-# Clone repository and navigate to root directory
-cd Multi_Agent_AI_Collaboration_system
-
-# Create and activate virtual environment
-python -m venv .venv
-# On Windows PowerShell:
-.\.venv\Scripts\Activate.ps1
-```
-
 ### 2. Install Dependencies
 ```bash
 pip install -r requirements.txt
